@@ -1,0 +1,24 @@
+span {
+border: 4px solid rgb(211, 65, 65);
+margin-right: 20px;
+padding: 15px 20px 15px 20px;
+background-color: rgb(211, 65, 65);
+color: aliceblue;
+}
+button{
+    border:none;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding: 19px 0px 18px 0px;
+    padding-right: 500px;
+}
+h1{
+    margin-left: 20px;
+}
+.box{
+    border : 4px solid rgb(222, 176, 248);
+    background-color: rgb(222, 176, 248);
+    margin-left: 20px;
+    width: fit-content;
+}
